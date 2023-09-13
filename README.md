@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello there! Welcome to my Github Profile <img src = "https://cdn-user-icons.flaticon.com/105336/105336613/1685749954446.svg?token=exp=1685750942~hmac=529523da8cd6e427b973e676cd535c19" width="40" height = "40"/>
+# Hello there! Welcome to my Github Profile
 ### My name is **Pedro Bozzano**🫡
   
 </div>
